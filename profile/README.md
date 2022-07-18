@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/857686921185984553/993873586056081418/IMG_0746.png)
+![Logo](https://cdn.discordapp.com/attachments/857686921185984553/998554589622186064/logo_sans_fond-1k_x_1K.png)
 
 # Official page related to the development of HyzedMC
 This place is an important point for this project, it is here that our development related to our platform will be recorded.
